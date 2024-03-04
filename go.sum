@@ -1,0 +1,16 @@
+github.com/my-org-for-test/go-repo-one v1.0.2 h1:LSZ+CzOHUZ3BrcEBPeg7JDpFv7DjEzMOdewGUrhTl4Y=
+github.com/my-org-for-test/go-repo-one v1.0.2/go.mod h1:95zs1MFLWWqyrXey+K+f7SqYNv39NHUfRzPSDFrndBk=
+github.com/my-org-for-test/go-repo-two v1.0.1 h1:BZC7Ys+SjRbg5O/G44SzW58JxGndZT13vS7aI7DK0/8=
+github.com/my-org-for-test/go-repo-two v1.0.1/go.mod h1:qWceryNJW7TpnXtwM+q2BHu+ukMUHvctboa3aBpGSxI=
+github.com/my-org-for-test/self-producer v1.0.2 h1:IuRkeO7UUiQDDNAUHiuimYQ5v89obJFShXnNMnuDXBw=
+github.com/my-org-for-test/self-producer v1.0.2/go.mod h1:4rUa3NcV1ynowZV9Uojt78sFEhjAc+QPJSi02TysquU=
+github.com/my-org-for-test/self-producer v1.0.4 h1:sdXnMQNMwX/trr4+HssKCbDMrlhL7KocWXt8sAtbokA=
+github.com/my-org-for-test/self-producer v1.0.4/go.mod h1:4rUa3NcV1ynowZV9Uojt78sFEhjAc+QPJSi02TysquU=
+github.com/my-org-for-test/self-producer v1.0.5 h1:E8pll73TyzRv9b/HIrrLP2mbXqC4QOFuElxbqTREAmo=
+github.com/my-org-for-test/self-producer v1.0.5/go.mod h1:4rUa3NcV1ynowZV9Uojt78sFEhjAc+QPJSi02TysquU=
+github.com/my-org-for-test/self-producer v1.0.6 h1:isS8Em7q+HlSNn/3aKvhsIyuqHI0oivaHkGCELpZSYo=
+github.com/my-org-for-test/self-producer v1.0.6/go.mod h1:4rUa3NcV1ynowZV9Uojt78sFEhjAc+QPJSi02TysquU=
+github.com/my-org-for-test/self-producer v1.0.7 h1:sbkQkuB+upnyzO3/qFnCgVTWG+yhxJcEWOUxuY+401k=
+github.com/my-org-for-test/self-producer v1.0.7/go.mod h1:4rUa3NcV1ynowZV9Uojt78sFEhjAc+QPJSi02TysquU=
+github.com/my-org-org/self-producer v1.0.2 h1:5lHz5NJjp0W52zm1WNS4LFZ7oLGDobhzPK30BhPs+ds=
+github.com/my-org-org/self-producer v1.0.2/go.mod h1:4rUa3NcV1ynowZV9Uojt78sFEhjAc+QPJSi02TysquU=
