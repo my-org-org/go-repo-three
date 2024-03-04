@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-    fmt.Println("========> go-repo-three: Release 3")
+    fmt.Println("========> go-repo-three: Release 3.2")
 
 	fmt.Println("go-repo-three: Dependency on go-repo-two:")
 	dependency_consumer.PrintDependencyMessage()
