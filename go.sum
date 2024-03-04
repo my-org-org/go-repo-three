@@ -20,5 +20,7 @@ github.com/my-org-org/go-repo-one v1.0.4 h1:RvkgXeBV9cXqjbuVBv3SlErWxxsDPReT10xx
 github.com/my-org-org/go-repo-one v1.0.4/go.mod h1:95zs1MFLWWqyrXey+K+f7SqYNv39NHUfRzPSDFrndBk=
 github.com/my-org-org/go-repo-two v1.0.4 h1:lqsuJVpsJiOew/VM/eZpVRzpfKDWo1qUMf1qX5asqwE=
 github.com/my-org-org/go-repo-two v1.0.4/go.mod h1:LZMznxD+8ZCH2CF42WN+jzT/2jt6ZnYA2XA7ovztHOg=
+github.com/my-org-org/go-repo-two v1.0.5 h1:WfIZsLjyd5msWXrl8HEFM97SYKS4RAY7CVydw0ut3Zk=
+github.com/my-org-org/go-repo-two v1.0.5/go.mod h1:hlRMk3P/5bHXoyuwR2+iIB8MEkX1nUSffVnnMaFPiJ0=
 github.com/my-org-org/self-producer v1.0.2 h1:5lHz5NJjp0W52zm1WNS4LFZ7oLGDobhzPK30BhPs+ds=
 github.com/my-org-org/self-producer v1.0.2/go.mod h1:4rUa3NcV1ynowZV9Uojt78sFEhjAc+QPJSi02TysquU=
